@@ -22,9 +22,13 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-## 📈 Github Stats
+## 📈 Github Statụs
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Huycute1104&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Huycute1104&show_icons=true&locale=en&layout=compact" alt="Huycute1104" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Huycute1104&show_icons=true&locale=en" alt="Huycute1104" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Huycute1104&" alt="Huycute1104" /></p>
 
 
 
