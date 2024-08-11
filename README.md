@@ -47,7 +47,7 @@
 </div>
 
 
-## 📈 Github Statụs
+## 📈 Github Status
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Huycute1104&show_icons=true&locale=en&layout=compact" alt="Huycute1104" /></p>
 
