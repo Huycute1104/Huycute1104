@@ -9,6 +9,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-hailua.tamquan-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hailua.tamquan)](https://www.facebook.com/hailua.tamquan)
 [![Gmail Badge](https://img.shields.io/badge/-huypt110402@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:huypt110402@gmail.com)](mailto:huypt110402@gmail.com)
 
+[![](https://visitcount.itsvg.in/api?id=HuyPham&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ## ⚡ Languages and Tools
 <div align="left">
