@@ -3,7 +3,7 @@
 
 > My name's Huy and I'm a Backend Developer, from Viet Nam
 
-- 🔭 I’m currently studying at [FPT University](https://university.fpt.edu.vn/)
+- 🔭 I’m study at [FPT University](https://university.fpt.edu.vn/)
 
 
 [![Facebook Badge](https://img.shields.io/badge/-hailua.tamquan-1877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/hailua.tamquan)](https://www.facebook.com/hailua.tamquan)
